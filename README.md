@@ -1,73 +1,20 @@
-# Welcome to your Lovable project
+# 🌿 Raíces Vivas - Turismo Comunitario Sostenible
 
-## Project info
+Bienvenido al repositorio del proyecto **Raíces Vivas**, una iniciativa que promueve el turismo comunitario sostenible en comunidades rurales de Colombia, conectando viajeros conscientes con experiencias auténticas y responsables.
 
-**URL**: https://lovable.dev/projects/2853eb9b-d12c-43ab-b208-fb6e8f1ec9f2
+## 📖 Descripción
 
-## How can I edit this code?
+**Raíces Vivas** es una plataforma digital diseñada para visibilizar y fortalecer las iniciativas turísticas lideradas por comunidades locales. A través de esta aplicación, los usuarios pueden:
 
-There are several ways of editing your application.
+- Descubrir experiencias culturales, gastronómicas y ecológicas.
+- Conocer la historia de cada comunidad y sus valores.
+- Reservar actividades directamente con los anfitriones comunitarios.
+- Promover un turismo respetuoso con el entorno y las tradiciones.
 
-**Use Lovable**
+La plataforma nace como respuesta a la necesidad de descentralizar la oferta turística tradicional, dándole voz y visibilidad a comunidades rurales que, a través del turismo, encuentran una vía de desarrollo económico, fortalecimiento cultural y conservación ambiental.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/2853eb9b-d12c-43ab-b208-fb6e8f1ec9f2) and start prompting.
+**Raíces Vivas** busca empoderar a las comunidades, permitiéndoles gestionar directamente sus experiencias y compartir con el mundo su identidad, saberes y forma de vida. El proyecto se centra en la justicia social, la equidad territorial y la sostenibilidad como pilares fundamentales.
 
-Changes made via Lovable will be committed automatically to this repo.
+Esta iniciativa ha sido desarrollada en colaboración con líderes comunitarios, estudiantes y profesionales comprometidos con un modelo de turismo alternativo que prioriza el bienestar de las personas y los territorios por encima del turismo de masas.
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/2853eb9b-d12c-43ab-b208-fb6e8f1ec9f2) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+**Raíces Vivas** es más que una aplicación: es un puente entre quienes quieren conocer el país desde sus raíces y quienes las custodian con orgullo.

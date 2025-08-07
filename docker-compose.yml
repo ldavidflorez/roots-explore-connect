@@ -1,0 +1,28 @@
+version: '3.7'
+
+services:
+  nginx:
+    image: nginx
+    restart: unless-stopped
+    ports:
+      - "80:80"
+    volumes:
+      - ./dist:/usr/share/nginx/html
+      - ./nginx.conf:/etc/nginx/nginx.conf
+    networks:
+      - web-network
+
+  cf-tunnel:
+    image: cloudflare/cloudflared:latest
+    restart: unless-stopped
+    command: tunnel --no-autoupdate run
+    environment:
+      - TUNNEL_TOKEN=$CF_TUNNEL_TOKEN
+    networks:
+      - web-network
+    depends_on:
+      - nginx
+
+networks:
+  web-network:
+    driver: bridge
